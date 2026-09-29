@@ -1,0 +1,7 @@
+{
+    "tmdbBaseURL": "https://api.themoviedb.org",
+    "tmdbAPIKey": "21d28860e770d4b004ecf0569de4050a",
+    "youtubeBaseURL": "https://www.youtube.com/embed/",
+    "youtubeAPIKey":"AIzaSyA_LnhkHwZZtuBwVPfQSoFz_HEr6FDZs8o",
+    "youtubeSearchURL":"https://www.googleapis.com/youtube/v3/search"
+}
