@@ -29,14 +29,6 @@ Built as a weekend learning project to get hands-on with iOS development, using 
 
 ---
 
-## 📱 Screenshots
-
-| Home | Details | Trailer |
-|------|---------|---------|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
